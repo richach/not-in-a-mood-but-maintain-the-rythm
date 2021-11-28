@@ -1,0 +1,14 @@
+/don't look at it
+Lol I did summation code /
+
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    int arr1, arr2, sum;
+    cin>>arr1>>arr2;
+    sum=arr1+arr2;
+    cout<<sum;
+    
+}
